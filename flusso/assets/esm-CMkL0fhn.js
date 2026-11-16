@@ -1,0 +1,2 @@
+const __vite__mapDeps=(i,m=__vite__mapDeps,d=(m.f||(m.f=["./web-Bvlkdr89.js","./dist-Dohoh47q.js"])))=>i.map(i=>d[i]);
+import{n as e}from"./rolldown-runtime-XKyaHtl9.js";import{a as t}from"./dist-Dohoh47q.js";import{t as n}from"./preload-helper-DclECHGd.js";var r=e({Preferences:()=>i}),i=t(`Preferences`,{web:()=>n(()=>import(`./web-Bvlkdr89.js`).then(e=>new e.PreferencesWeb),__vite__mapDeps([0,1]),import.meta.url)});export{r as n,i as t};

@@ -1,0 +1,2 @@
+const __vite__mapDeps=(i,m=__vite__mapDeps,d=(m.f||(m.f=["./web-CBbymp11.js","./dist-Dohoh47q.js"])))=>i.map(i=>d[i]);
+import{n as e}from"./rolldown-runtime-XKyaHtl9.js";import{a as t}from"./dist-Dohoh47q.js";import{t as n}from"./preload-helper-DclECHGd.js";var r=e({Device:()=>i}),i=t(`Device`,{web:()=>n(()=>import(`./web-CBbymp11.js`).then(e=>new e.DeviceWeb),__vite__mapDeps([0,1]),import.meta.url)});export{r as n,i as t};
